@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-07 18:47:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-08 06:43:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1114,9 +1114,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-29.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-5.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-4.ctv
+生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-24.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-1.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-2.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-24.m3u8
 第一财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://ls.qingting.fm/live/276.m3u8
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
@@ -1135,8 +1135,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 都市剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
 都市剧场,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&Ace
 都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/index.m3u8
-都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8
+都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/index.m3u8
 
 ☘️重庆频道,#genre#
@@ -1390,11 +1390,11 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金鹰纪实,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-2.ctv
+金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-9.m3u8
 金鹰纪实,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId=
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-5.ctv
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-7.ctv
 金鹰纪实,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
-金鹰纪实,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 湖南金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,http://nas.suntao.online:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-23.m3u8
